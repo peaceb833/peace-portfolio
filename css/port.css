@@ -175,7 +175,7 @@ header{
     color:#d1cbe0;
     top: 0;
     left: 10em;
-    bottom: 160px;
+    bottom: 190px;
     right: 0;
     z-index: 100;
     transform: translate(100%);
@@ -1218,6 +1218,10 @@ color:#d0c7e4;
 text-align: center;
 
 
+}
+.talk{
+    font-size: medium;
+    color: #e0dbe9;
 }
 .hire-title{
     font-size: 1.4em;

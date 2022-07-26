@@ -478,7 +478,7 @@ font-size: .8em;
    
 }
 .hi2{
-    margin-top: -.7em;
+    margin-top: -.6em;
  color: #eee9f7e3;
  font-size: 1.7em;
 color:rgb(170, 140, 107);
@@ -680,7 +680,7 @@ margin-top: -1px;
 }
 .about-intro{
     font-weight: var(--fw-bold);
-    font-size: 1.4em;
+    font-size: 1.2em;
     text-align: center;
     font-family: var(--ff-fontfamily);
     margin-top: -2em;
